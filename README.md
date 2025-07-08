@@ -1,94 +1,76 @@
-<h1 align="center">Hi 👋, I'm Jaideep Gajjala</h1>
-<h3 align="center">A passionate Full Stack Developer & Machine Learning Enthusiast from Hyderabad, India</h3>
+<h1 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jaideep Gajjala
+</h1>
+
+<h3 align="center">🚀 Full Stack Developer | 🧠 Machine Learning Enthusiast | 📍 Hyderabad, India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jaideep-g-4427a72a9/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/JD1105"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
-  <a href="mailto:jaideepgajjala@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&width=600&lines=Welcome+to+my+GitHub!;I+love+building+AI-powered+apps.;React+%7C+Kotlin+%7C+Python+%7C+ML+enthusiast.;Let's+build+something+amazing!">
 </p>
 
 ---
 
-## 🌱 About Me
-- 🎓 B.Tech in Computer Science Engineering at **Gokaraju Rangaraju Institute of Engineering and Technology** (Expected 2026)  
-- 📚 Current SGPA: **9.63**
-- 🔭 Currently working on: **Machine Learning, Full Stack Web Apps, and AI-powered Mobile Apps**
-- 🧩 Exploring: AI, Cloud Services, and Advanced App Development
+<p align="center">
+  <a href="https://github.com/JD1105">
+    <img src="https://komarev.com/ghpvc/?username=JD1105&label=Profile+Views&color=blue&style=flat-square" alt="JD1105" />
+  </a>
+  <a href="https://linkedin.com/in/jaideep-g-4427a72a9">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:jaideepgajjala@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-<p>
+## 🛠 My Tech Toolbox
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </p>
 
 ---
 
-## 🚀 Projects
-✨ **SmileGenie** – *Mood Enhancing Android App*  
-> Detects facial expressions using CNN and suggests mood-boosting activities.  
+## 🌟 Featured Projects
+✨ **SmileGenie** – AI-powered mood enhancing app  
+✨ **TuPil** – Find your perfect tutor  
+✨ **AbleHire** – Inclusive hiring platform for people with disabilities  
+✨ **TripTogether** – Real-time navigation & location sharing app  
+✨ **ML App Testing** – Pytest framework for robust machine learning APIs
 
-✨ **TuPil** – *Connecting Tutors and Students*  
-> Full stack app built with React, Node.js, and Firebase to match students with tutors.  
-
-✨ **AbleHire** – *Hiring platform for disabled people*  
-> AI chatbot, job search, and voice search to improve accessibility.  
-> 🌐 [Visit Site](https://able-hire.vercel.app/)  
-
-✨ **TripTogether** – *Navigation App for Group Travel*  
-> Real-time location sharing, emergency SOS, and group tracking using Google Maps & Firebase.  
-
-✨ **Machine Learning App Testing**  
-> Automated ML model tests with pytest to ensure reliability.
+> 📍 Visit [AbleHire website](https://able-hire.vercel.app/)
 
 ---
 
-## 💼 Experience
-- 📍 **Full Stack Developer Intern @ Unified Mentor** – Built web apps using React, Node.js, and Firebase
-- 📍 **Freelance Developer** – Created ML-powered apps in Flask
-- 📍 **AAC Club Member @ GRIET** – Led ML projects like SmileGenie
-- 📍 **JPMorgan Chase SE Lite Virtual Program** – Engineering simulation & test automation
-
----
-
-## 📜 Certifications & Achievements
-- ✅ **Udemy Certification** – React Development
-- 🏆 **Top 10** in Scientific Forestep Project Expo (for SmileGenie)
-- 🎓 **Academic Excellence** – 10 CGPA in Semester 1
-
----
-
-## ✨ Fun Facts
-- 🌏 Based in Hyderabad, India
-- 🧠 Love building apps that make daily life easier
-- ☕ Fuelled by coffee and curiosity!
-
----
-
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JD1105&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JD1105&layout=compact&theme=radical" width="300">
+  <img src="https://github-readme-stats.vercel.app/api?username=JD1105&show_icons=true&theme=tokyonight&count_private=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JD1105&theme=tokyonight" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JD1105&layout=compact&theme=tokyonight" width="300">
 </p>
 
 ---
 
-## 📫 Contact Me
-📧 Email: [jaideepgajjala@gmail.com](mailto:jaideepgajjala@gmail.com)  
-💼 LinkedIn: [Jaideep Gajjala](https://www.linkedin.com/in/jaideep-g-4427a72a9/)  
-🐙 GitHub: [JD1105](https://github.com/JD1105)
+## ✍️ Latest Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JD1105&theme=tokyo-night" width="90%">
+</p>
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile! ✨</p>
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/jaideep-g-4427a72a9)
+- 🐙 [GitHub](https://github.com/JD1105)
+- 📧 [Email](mailto:jaideepgajjala@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4B0082&height=100&section=footer"/>
+</p>
