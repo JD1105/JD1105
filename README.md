@@ -59,8 +59,9 @@
 
 ## ✍️ Latest Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JD1105&theme=tokyo-night" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JD1105&theme=tokyo-night" width="90%">
 </p>
+
 
 ---
 
