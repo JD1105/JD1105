@@ -41,9 +41,9 @@
 ✨ **SmileGenie** – AI-powered mood enhancing app  
 ✨ **TuPil** – Find your perfect tutor  
 ✨ **AbleHire** – Inclusive hiring platform for people with disabilities  
-> 📍 Visit [AbleHire website](https://able-hire.vercel.app/)  
+  &nbsp;&nbsp;&nbsp;&nbsp;📍 Visit [AbleHire website](https://able-hire.vercel.app/)  
 ✨ **TripTogether** – Real-time navigation & location sharing app  
-> 📦 [Download TripTogether.apk](https://github.com/JD1105/JD1105/raw/main/triptogether.apk)  
+  &nbsp;&nbsp;&nbsp;&nbsp;📦 [Download TripTogether.apk](https://github.com/JD1105/JD1105/raw/main/triptogether.apk)  
 ✨ **ML App Testing** – Pytest framework for robust machine learning APIs
 
 
