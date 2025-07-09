@@ -2,7 +2,7 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jaideep Gajjala
 </h1>
 
-<h3 align="center">🚀 Full Stack Developer | 🧠 Machine Learning Enthusiast | 📍 Hyderabad, India</h3>
+<h3 align="center">🚀 Full Stack Developer | 🧠 Machine Learning Enthusiast |📱 Android App Developer | 📍 Hyderabad, India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&width=600&lines=Welcome+to+my+GitHub!;I+love+building+AI-powered+apps.;React+%7C+Kotlin+%7C+Python+%7C+ML+enthusiast.;Let's+build+something+amazing!">
