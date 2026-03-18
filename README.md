@@ -4,12 +4,7 @@
 
 ---
 
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JD1105&show_icons=true&theme=tokyonight&count_private=true" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JD1105&theme=tokyonight" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JD1105&layout=compact&theme=tokyonight" width="300">
-</p>>
+
 
 ---
 
