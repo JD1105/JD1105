@@ -12,13 +12,16 @@
 
 <p align="center">
   <a href="https://github.com/JD1105">
-    <img src="https://komarev.com/ghpvc/?username=JD1105&label=Profile+Views&color=blue&style=flat-square" alt="JD1105" />
+    <img src="https://komarev.com/ghpvc/?username=JD1105&label=Profile+Views&color=blue&style=flat-square" />
   </a>
   <a href="https://linkedin.com/in/jaideep-g-4427a72a9">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:jaideepgajjala@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://jaideep-gajjala.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
@@ -41,11 +44,12 @@
 ✨ **SmileGenie** – AI-powered mood enhancing app  
 ✨ **TuPil** – Find your perfect tutor  
 ✨ **AbleHire** – Inclusive hiring platform for people with disabilities  
-  &nbsp;&nbsp;&nbsp;&nbsp;📍 Visit [AbleHire website](https://able-hire.vercel.app/)  
+&nbsp;&nbsp;&nbsp;&nbsp;📍 Visit [AbleHire website](https://able-hire.vercel.app/)  
 ✨ **TripTogether** – Real-time navigation & location sharing app  
-  &nbsp;&nbsp;&nbsp;&nbsp;📦 [Download TripTogether.apk](https://github.com/JD1105/JD1105/raw/main/triptogether.apk)  
-✨ **ML App Testing** – Pytest framework for robust machine learning APIs
+&nbsp;&nbsp;&nbsp;&nbsp;📦 [Download TripTogether.apk](https://github.com/JD1105/JD1105/raw/main/triptogether.apk)  
+✨ **ML App Testing** – Pytest framework for robust machine learning APIs  
 
+---
 
 ## 📊 My GitHub Stats
 <p align="center">
@@ -56,17 +60,23 @@
 
 ---
 
-## ✍️ Latest Activity
+## 📂 My Repositories Showcase
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JD1105&theme=tokyo-night" width="90%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JD1105&repo=AbleHire&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JD1105&repo=TripTogether&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JD1105&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JD1105&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/jaideep-g-4427a72a9)
 - 🐙 [GitHub](https://github.com/JD1105)
+- 🌐 [Portfolio](https://jaideep-gajjala.vercel.app/)
 - 📧 [Email](mailto:jaideepgajjala@gmail.com)
 
 ---
