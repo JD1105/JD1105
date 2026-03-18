@@ -20,6 +20,9 @@
   <a href="mailto:jaideepgajjala@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail" />
   </a>
+  <a href="https://jaideep-gajjala.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -73,9 +76,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4B0082&height=100&section=footer"/>
 </p>
 
-
-
-this is a github page
-add my personal portfolio link : https://jaideep-gajjala.vercel.app/
-remove latest activity and show my repos in the same way ;ike using graphs and all those 
-edit this code now
