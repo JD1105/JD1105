@@ -1,16 +1,15 @@
 ---
 
-## 🐍 Contribution Snake (Because why not 😄)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JD1105/JD1105/output/github-contribution-grid-snake.svg" />
-</p>
+
 
 ---
 
-## 📈 Coding Activity & Contributions
+## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JD1105&theme=tokyo-night&hide_border=true&area=true" width="95%">
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=JD1105&show_icons=true&theme=tokyonight&count_private=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JD1105&theme=tokyonight" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JD1105&layout=compact&theme=tokyonight" width="300">
+</p>>
 
 ---
 
